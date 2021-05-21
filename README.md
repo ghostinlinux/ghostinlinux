@@ -8,4 +8,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ghostinlinux&show_icons=true&theme=outrun" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostinlinux&layout=compact" alt="stats">
 </p>
