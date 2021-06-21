@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Pratik Singh 👋 </h1>
 
-- 🧑🏻‍🏫 I’m currently pursuing my <strong> B.tech in Computer Science and Engineering. </strong>
+- 🧑🏻‍🏫 I’m currently pursuing my <strong> BE in Computer Science and Engineering. </strong>
 - 🌱 I’m currently learning <strong>Full Stack Web Development, Java, Python, Bash.  </strong>
 - 🔭 I’m interested in <strong> Cyber Security. </strong>
 - 📫 How to reach me: <a href="https://ghostinlinux.github.io/MySocialLinks/" target="_blank" style="text-decoration:none;"> Connect </a>
