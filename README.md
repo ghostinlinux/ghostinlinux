@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Pratik Singh 👋 </h1>
+<h1 align="center"> Hi there, I'm Pratik Kumar 👋 </h1>
 
 - 🧑🏻‍🏫 I’m currently pursuing my <strong> BE in Computer Science and Engineering. </strong>
 - 🌱 I’m currently learning <strong>Full Stack Web Development, Java, Python, Bash.  </strong>
